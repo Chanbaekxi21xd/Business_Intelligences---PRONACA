@@ -47,7 +47,3 @@ Detectar problemas clave de la organización a partir del análisis de informaci
 - Relación entre procesos, resultados y decisiones  
 - Enfoque en impacto empresarial  
 
----
-
-## 📂 Estructura del Proyecto
-
